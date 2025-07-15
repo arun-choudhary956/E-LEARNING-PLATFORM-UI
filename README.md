@@ -30,4 +30,6 @@ Features :-
 
 # OUTPUT :-
 
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/d40be8be-6801-4dfe-bc6e-156a1443c0c6" />
 
+<img width="1919" height="967" alt="Image" src="https://github.com/user-attachments/assets/cc6645da-2771-4ef2-a785-66f5b635e282" />
